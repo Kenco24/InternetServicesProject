@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\kenan\\OneDrive\\Desktop\\InterservicesProj\\InternetServicesProject\\InternetServicesProject\\InternetServicesProject.csproj": {}
+    "C:\\Users\\kenan\\OneDrive\\Desktop\\InterservicesProj\\InternetServicesBack\\InternetServicesProject\\InternetServicesProject.csproj": {}
   },
   "projects": {
-    "C:\\Users\\kenan\\OneDrive\\Desktop\\InterservicesProj\\InternetServicesProject\\InternetServicesProject\\InternetServicesProject.csproj": {
+    "C:\\Users\\kenan\\OneDrive\\Desktop\\InterservicesProj\\InternetServicesBack\\InternetServicesProject\\InternetServicesProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kenan\\OneDrive\\Desktop\\InterservicesProj\\InternetServicesProject\\InternetServicesProject\\InternetServicesProject.csproj",
+        "projectUniqueName": "C:\\Users\\kenan\\OneDrive\\Desktop\\InterservicesProj\\InternetServicesBack\\InternetServicesProject\\InternetServicesProject.csproj",
         "projectName": "InternetServicesProject",
-        "projectPath": "C:\\Users\\kenan\\OneDrive\\Desktop\\InterservicesProj\\InternetServicesProject\\InternetServicesProject\\InternetServicesProject.csproj",
+        "projectPath": "C:\\Users\\kenan\\OneDrive\\Desktop\\InterservicesProj\\InternetServicesBack\\InternetServicesProject\\InternetServicesProject.csproj",
         "packagesPath": "C:\\Users\\kenan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kenan\\OneDrive\\Desktop\\InterservicesProj\\InternetServicesProject\\InternetServicesProject\\obj\\",
+        "outputPath": "C:\\Users\\kenan\\OneDrive\\Desktop\\InterservicesProj\\InternetServicesBack\\InternetServicesProject\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\kenan\\AppData\\Roaming\\NuGet\\NuGet.Config",

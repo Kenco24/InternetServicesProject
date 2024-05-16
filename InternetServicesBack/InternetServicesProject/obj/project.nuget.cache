@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "mpUZrnE9ubSbnZ6IY8ZCOGGH755CTd6bLTg+X9v0BxBM6S5M38d7v+lxAQ4Vk6ShOav1WYpfxnzIGh0lQ/UavQ==",
+  "dgSpecHash": "4/+jfN2nnUrP5KiZOFOq8ApxsbuYMvVBqKVecxsxwZMsl5UWa8PAHEJpK+VKgNn0x8RtebKKJ+JIOQSuGTvN8Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\kenan\\OneDrive\\Desktop\\InterservicesProj\\InternetServicesProject\\InternetServicesProject\\InternetServicesProject.csproj",
+  "projectFilePath": "C:\\Users\\kenan\\OneDrive\\Desktop\\InterservicesProj\\InternetServicesBack\\InternetServicesProject\\InternetServicesProject.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\kenan\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\kenan\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
