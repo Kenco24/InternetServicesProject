@@ -1,0 +1,27 @@
+.container {
+  width: 20%;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+
+.form-container {
+  border: 1px solid #ccc;
+  padding: 10px;
+  margin-bottom: 20px;
+}
+
+.category-list {
+  border: 1px solid #ccc;
+  padding: 10px;
+  margin-bottom: 20px;
+}
+
+.category-item {
+  margin-bottom: 10px;
+}
+
+.edit-category {
+  border: 1px solid #ccc;
+  padding: 10px;
+}

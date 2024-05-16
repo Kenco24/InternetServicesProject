@@ -1,0 +1,205 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kenan\\OneDrive\\Desktop\\InterservicesProj\\InternetServicesProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{67F9C5F1-BAF6-47D1-86DB-BE073DE3D8C0}|InternetServicesProject\\InternetServicesProject.csproj|c:\\users\\kenan\\onedrive\\desktop\\interservicesproj\\internetservicesproject\\internetservicesproject\\controllers\\purchasecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67F9C5F1-BAF6-47D1-86DB-BE073DE3D8C0}|InternetServicesProject\\InternetServicesProject.csproj|solutionrelative:internetservicesproject\\controllers\\purchasecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67F9C5F1-BAF6-47D1-86DB-BE073DE3D8C0}|InternetServicesProject\\InternetServicesProject.csproj|c:\\users\\kenan\\onedrive\\desktop\\interservicesproj\\internetservicesproject\\internetservicesproject\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67F9C5F1-BAF6-47D1-86DB-BE073DE3D8C0}|InternetServicesProject\\InternetServicesProject.csproj|solutionrelative:internetservicesproject\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67F9C5F1-BAF6-47D1-86DB-BE073DE3D8C0}|InternetServicesProject\\InternetServicesProject.csproj|c:\\users\\kenan\\onedrive\\desktop\\interservicesproj\\internetservicesproject\\internetservicesproject\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67F9C5F1-BAF6-47D1-86DB-BE073DE3D8C0}|InternetServicesProject\\InternetServicesProject.csproj|solutionrelative:internetservicesproject\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67F9C5F1-BAF6-47D1-86DB-BE073DE3D8C0}|InternetServicesProject\\InternetServicesProject.csproj|c:\\users\\kenan\\onedrive\\desktop\\interservicesproj\\internetservicesproject\\internetservicesproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67F9C5F1-BAF6-47D1-86DB-BE073DE3D8C0}|InternetServicesProject\\InternetServicesProject.csproj|solutionrelative:internetservicesproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67F9C5F1-BAF6-47D1-86DB-BE073DE3D8C0}|InternetServicesProject\\InternetServicesProject.csproj|c:\\users\\kenan\\onedrive\\desktop\\interservicesproj\\internetservicesproject\\internetservicesproject\\data\\model\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67F9C5F1-BAF6-47D1-86DB-BE073DE3D8C0}|InternetServicesProject\\InternetServicesProject.csproj|solutionrelative:internetservicesproject\\data\\model\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67F9C5F1-BAF6-47D1-86DB-BE073DE3D8C0}|InternetServicesProject\\InternetServicesProject.csproj|c:\\users\\kenan\\onedrive\\desktop\\interservicesproj\\internetservicesproject\\internetservicesproject\\services\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67F9C5F1-BAF6-47D1-86DB-BE073DE3D8C0}|InternetServicesProject\\InternetServicesProject.csproj|solutionrelative:internetservicesproject\\services\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67F9C5F1-BAF6-47D1-86DB-BE073DE3D8C0}|InternetServicesProject\\InternetServicesProject.csproj|c:\\users\\kenan\\onedrive\\desktop\\interservicesproj\\internetservicesproject\\internetservicesproject\\services\\dtos\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67F9C5F1-BAF6-47D1-86DB-BE073DE3D8C0}|InternetServicesProject\\InternetServicesProject.csproj|solutionrelative:internetservicesproject\\services\\dtos\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67F9C5F1-BAF6-47D1-86DB-BE073DE3D8C0}|InternetServicesProject\\InternetServicesProject.csproj|c:\\users\\kenan\\onedrive\\desktop\\interservicesproj\\internetservicesproject\\internetservicesproject\\data\\model\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67F9C5F1-BAF6-47D1-86DB-BE073DE3D8C0}|InternetServicesProject\\InternetServicesProject.csproj|solutionrelative:internetservicesproject\\data\\model\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kenan\\OneDrive\\Desktop\\Diplomska\\InternetServicesProject\\InternetServicesProject\\Migrations\\20240515232400_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67F9C5F1-BAF6-47D1-86DB-BE073DE3D8C0}|InternetServicesProject\\InternetServicesProject.csproj|c:\\users\\kenan\\onedrive\\desktop\\interservicesproj\\internetservicesproject\\internetservicesproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{67F9C5F1-BAF6-47D1-86DB-BE073DE3D8C0}|InternetServicesProject\\InternetServicesProject.csproj|solutionrelative:internetservicesproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kenan\\OneDrive\\Desktop\\Diplomska\\InternetServicesProj\\InternetServicesProj\\Data\\DataContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PurchaseController.cs",
+              "DocumentMoniker": "C:\\Users\\kenan\\OneDrive\\Desktop\\InterservicesProj\\InternetServicesProject\\InternetServicesProject\\Controllers\\PurchaseController.cs",
+              "RelativeDocumentMoniker": "InternetServicesProject\\Controllers\\PurchaseController.cs",
+              "ToolTip": "C:\\Users\\kenan\\OneDrive\\Desktop\\InterservicesProj\\InternetServicesProject\\InternetServicesProject\\Controllers\\PurchaseController.cs",
+              "RelativeToolTip": "InternetServicesProject\\Controllers\\PurchaseController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T17:02:02.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductDTO.cs",
+              "DocumentMoniker": "C:\\Users\\kenan\\OneDrive\\Desktop\\InterservicesProj\\InternetServicesProject\\InternetServicesProject\\Services\\DTOs\\ProductDTO.cs",
+              "RelativeDocumentMoniker": "InternetServicesProject\\Services\\DTOs\\ProductDTO.cs",
+              "ToolTip": "C:\\Users\\kenan\\OneDrive\\Desktop\\InterservicesProj\\InternetServicesProject\\InternetServicesProject\\Services\\DTOs\\ProductDTO.cs",
+              "RelativeToolTip": "InternetServicesProject\\Services\\DTOs\\ProductDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T15:43:09.249Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CategoryDTO.cs",
+              "DocumentMoniker": "C:\\Users\\kenan\\OneDrive\\Desktop\\InterservicesProj\\InternetServicesProject\\InternetServicesProject\\Services\\DTOs\\CategoryDTO.cs",
+              "RelativeDocumentMoniker": "InternetServicesProject\\Services\\DTOs\\CategoryDTO.cs",
+              "ToolTip": "C:\\Users\\kenan\\OneDrive\\Desktop\\InterservicesProj\\InternetServicesProject\\InternetServicesProject\\Services\\DTOs\\CategoryDTO.cs",
+              "RelativeToolTip": "InternetServicesProject\\Services\\DTOs\\CategoryDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T15:43:06.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\kenan\\OneDrive\\Desktop\\InterservicesProj\\InternetServicesProject\\InternetServicesProject\\Data\\Model\\Product.cs",
+              "RelativeDocumentMoniker": "InternetServicesProject\\Data\\Model\\Product.cs",
+              "ToolTip": "C:\\Users\\kenan\\OneDrive\\Desktop\\InterservicesProj\\InternetServicesProject\\InternetServicesProject\\Data\\Model\\Product.cs",
+              "RelativeToolTip": "InternetServicesProject\\Data\\Model\\Product.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAqwBQAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T15:42:58.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\kenan\\OneDrive\\Desktop\\InterservicesProj\\InternetServicesProject\\InternetServicesProject\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "InternetServicesProject\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\kenan\\OneDrive\\Desktop\\InterservicesProj\\InternetServicesProject\\InternetServicesProject\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "InternetServicesProject\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAgwE4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T15:41:53.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\kenan\\OneDrive\\Desktop\\InterservicesProj\\InternetServicesProject\\InternetServicesProject\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "InternetServicesProject\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\kenan\\OneDrive\\Desktop\\InterservicesProj\\InternetServicesProject\\InternetServicesProject\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "InternetServicesProject\\Controllers\\CategoryController.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwBcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T15:41:44.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20240515232400_Initial.cs",
+              "DocumentMoniker": "C:\\Users\\kenan\\OneDrive\\Desktop\\Diplomska\\InternetServicesProject\\InternetServicesProject\\Migrations\\20240515232400_Initial.cs",
+              "RelativeDocumentMoniker": "..\\..\\Diplomska\\InternetServicesProject\\InternetServicesProject\\Migrations\\20240515232400_Initial.cs",
+              "ToolTip": "C:\\Users\\kenan\\OneDrive\\Desktop\\Diplomska\\InternetServicesProject\\InternetServicesProject\\Migrations\\20240515232400_Initial.cs",
+              "RelativeToolTip": "..\\..\\Diplomska\\InternetServicesProject\\InternetServicesProject\\Migrations\\20240515232400_Initial.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T23:24:00.765Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kenan\\OneDrive\\Desktop\\InterservicesProj\\InternetServicesProject\\InternetServicesProject\\Program.cs",
+              "RelativeDocumentMoniker": "InternetServicesProject\\Program.cs",
+              "ToolTip": "C:\\Users\\kenan\\OneDrive\\Desktop\\InterservicesProj\\InternetServicesProject\\InternetServicesProject\\Program.cs",
+              "RelativeToolTip": "InternetServicesProject\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAACMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T23:23:17.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\kenan\\OneDrive\\Desktop\\InterservicesProj\\InternetServicesProject\\InternetServicesProject\\appsettings.json",
+              "RelativeDocumentMoniker": "InternetServicesProject\\appsettings.json",
+              "ToolTip": "C:\\Users\\kenan\\OneDrive\\Desktop\\InterservicesProj\\InternetServicesProject\\InternetServicesProject\\appsettings.json",
+              "RelativeToolTip": "InternetServicesProject\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-15T23:23:01.092Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\kenan\\OneDrive\\Desktop\\InterservicesProj\\InternetServicesProject\\InternetServicesProject\\Data\\Model\\Category.cs",
+              "RelativeDocumentMoniker": "InternetServicesProject\\Data\\Model\\Category.cs",
+              "ToolTip": "C:\\Users\\kenan\\OneDrive\\Desktop\\InterservicesProj\\InternetServicesProject\\InternetServicesProject\\Data\\Model\\Category.cs",
+              "RelativeToolTip": "InternetServicesProject\\Data\\Model\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T23:22:42.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "C:\\Users\\kenan\\OneDrive\\Desktop\\Diplomska\\InternetServicesProj\\InternetServicesProj\\Data\\DataContext.cs",
+              "RelativeDocumentMoniker": "..\\..\\Diplomska\\InternetServicesProj\\InternetServicesProj\\Data\\DataContext.cs",
+              "ToolTip": "C:\\Users\\kenan\\OneDrive\\Desktop\\Diplomska\\InternetServicesProj\\InternetServicesProj\\Data\\DataContext.cs",
+              "RelativeToolTip": "..\\..\\Diplomska\\InternetServicesProj\\InternetServicesProj\\Data\\DataContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T23:22:29.907Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

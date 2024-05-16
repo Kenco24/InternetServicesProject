@@ -1,0 +1,44 @@
+body {
+  background-color: #ffffff; 
+}
+
+nav {
+  text-align: center;
+  background-color: #f0f0f0; 
+  padding: 5px;
+}
+
+nav ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+nav ul li {
+  display: inline;
+  margin-right: 20px;
+}
+
+nav ul li a {
+  font-size: 2rem; 
+  color: #333;
+  text-decoration: none;
+  transition: color 0.3s;
+}
+
+nav ul li a:hover {
+  color: #007bff; 
+  text-decoration: underline;
+}
+
+
+footer {
+  text-align: center;
+  background-color: #f0f0f0; 
+  padding: 20px;
+  margin-top: 20px;
+  color: #333; 
+}
+
+footer p {
+  margin: 0;
+}
