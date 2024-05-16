@@ -111,5 +111,3 @@
 **Response**: A JSON object containing details of the purchase, including total price, discount applied, and purchased products.
 
 ---
-
-That concludes the documentation for the TaskManager API. You can use these endpoints to perform various operations on categories, products, and purchases.
