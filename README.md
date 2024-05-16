@@ -1,12 +1,4 @@
-# TaskManager
 
-TaskManager RESTful API project for CIP.
-
-The TaskManager API provides endpoints for managing categories, products, and purchases. This README file provides an overview of the available endpoints and their functionality.
-
-The base URL for accessing the TaskManager API is: localhost:8080/api
-
----
 
 ## CategoryController
 
